@@ -1,0 +1,12 @@
+dash
+dash-bootstrap-components
+dash-core-components
+dash-html-components
+numpy
+plotly
+datetime
+pandas
+pymongo
+requests
+dash-table
+dash-daq
