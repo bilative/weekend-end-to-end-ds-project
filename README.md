@@ -39,7 +39,7 @@ This part is include some:
 
 In this part I didnt spend so much time. I showed some basics. Important tasks requires maybe months of preprocessing and model selection processes as you know. I made only PoC (Proff of concept) study here.
 You can check the test set predictions and the y_test values here:
-* ![output](https://user-images.githubusercontent.com/70684994/130521988-a3a46d7b-50ef-4f4d-a344-453ab2c47180.png)
+* ![output](https://user-images.githubusercontent.com/70684994/130640178-2926c710-3d85-46ff-a927-9678c21f532b.png)
 * It looks pretty good.
 
 **And lastly I saved model and scaler as .sav file to use them later (In rest API and Dashboard).**
